@@ -119,12 +119,12 @@ Tecnólogo en Desarrollo de Software con **más de 5 años de experiencia** dise
     <tr>
       <td>
         <strong>🏗️ ConstructTrack Mobile</strong><br /><br />
-        <!-- <a href="https://alejandropl.com/construct-track-v1.0.0.apk">📱 Descargar APK (v1.0.0)</a><br /> -->
+        <a href="https://github.com/alez2312p/portafolio/releases/download/v1.0.0/construct-track-v1.0.0.apk" download="construct-track-v1.0.0.apk">📱 Descargar APK (v1.0.0)</a><br />
         <code>🔒 Código Privado</code>
       </td>
       <td>
         Aplicación móvil empresarial para control de inventario y trazabilidad en obras de construcción bajo cero conectividad.<br />
-        • <strong>100% Offline-First:</strong> 0 ms de latencia percibida en obra con SQLite en modo WAL.<br />
+        • <strong>Arquitectura Offline:</strong> Operación autónoma en obra sin internet con base de datos local SQLite (modo WAL).<br />
         • <strong>Outbox Pattern:</strong> Cola topológica con conciliación y sincronización diferida hacia PostgreSQL.<br />
         • <strong>Seguridad:</strong> PIN criptográfico (SHA-256), biometría nativa y suite de 38 pruebas unitarias en Jest (100% aprobadas).
       </td>
@@ -162,7 +162,7 @@ Tecnólogo en Desarrollo de Software con **más de 5 años de experiencia** dise
       </td>
       <td>
         Dashboard financiero personal inteligente con categorización mediante Inteligencia Artificial.<br />
-        • Categorización automática con <strong>Google Gemini 2.5 Flash</strong> y fallback a motor de reglas locales (costo $0 de API).<br />
+        • Categorización automática con <strong>Google Gemini 2.5 Flash</strong> y fallback a motor de reglas locales para alta disponibilidad.<br />
         • Presupuestos dinámicos, análisis mensual y modo demo interactivo sin necesidad de registro.
       </td>
       <td>
@@ -179,7 +179,7 @@ Tecnólogo en Desarrollo de Software con **más de 5 años de experiencia** dise
         <code>🔒 Código Privado</code>
       </td>
       <td>
-        E-commerce multi-tenant escalable para tiendas y outlets con costo de infraestructura $0.<br />
+        Plataforma e-commerce multi-tenant escalable y de alto rendimiento para tiendas y outlets.<br />
         • Múltiples tiendas independientes sobre una sola base de código con rutas y dominios aislados.<br />
         • Carrito reactivo con Zustand, checkout integrado por WhatsApp y más de <strong>380 pruebas</strong> automatizadas.
       </td>
@@ -216,9 +216,9 @@ Tecnólogo en Desarrollo de Software con **más de 5 años de experiencia** dise
 
 ### ⚡ En lo que estoy trabajando ahora (_Now_)
 
-- 🛠️ **Construyendo:** Aplicación de inventario multi-negocio, plataforma de agendamiento _Setty_ y nuevas funciones multi-obra para ConstructTrack.
-- 📚 **Profundizando:** Integración de Inteligencia Artificial para producto (predicción de demanda), pipelines de CI/CD con Docker y Serverless con Cloud Functions.
-- 🎯 **Explorando:** Arquitectura cloud en AWS (EC2, S3, Lambda), Supabase Realtime a escala y GraphQL.
+- 🛠️ **Construyendo:** Sincronización bidireccional y tolerancia a desconexión en ConstructTrack, cobros anticipados en _Setty_ y analítica comercial para _Outlet_.
+- 📚 **Profundizando:** Modelos predictivos de IA para demanda en obra, pipelines de CI/CD con GitHub Actions y Docker, y funciones serverless.
+- 🎯 **Explorando:** Arquitecturas Local-First con CRDTs, GraphQL para sistemas complejos y modelos On-Device AI en dispositivos móviles.
 
 ---
 

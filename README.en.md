@@ -119,12 +119,12 @@ Software Development Technologist with **over 5 years of experience** designing 
     <tr>
       <td>
         <strong>🏗️ ConstructTrack Mobile</strong><br /><br />
-        <!-- <a href="https://alejandropl.com/construct-track-v1.0.0.apk">📱 Download APK (v1.0.0)</a><br /> -->
+        <a href="https://github.com/alez2312p/portafolio/releases/download/v1.0.0/construct-track-v1.0.0.apk" download="construct-track-v1.0.0.apk">📱 Download APK (v1.0.0)</a><br />
         <code>🔒 Private Code</code>
       </td>
       <td>
         Enterprise mobile app for material traceability and inventory control on civil construction sites under zero connectivity.<br />
-        • <strong>100% Offline-First:</strong> 0 ms perceived latency on site with SQLite in WAL mode.<br />
+        • <strong>Offline Architecture:</strong> Autonomous on-site operation without internet via local SQLite database (WAL mode).<br />
         • <strong>Outbox Pattern:</strong> Topological queue with reconciliation and deferred background sync to PostgreSQL.<br />
         • <strong>Security:</strong> Salted cryptographic PIN (SHA-256), native biometrics, and automated suite of 38 unit tests in Jest (100% passed).
       </td>
@@ -162,7 +162,7 @@ Software Development Technologist with **over 5 years of experience** designing 
       </td>
       <td>
         Smart personal finance dashboard with artificial intelligence categorization.<br />
-        • Automated categorization with <strong>Google Gemini 2.5 Flash</strong> and local rule engine fallback ($0 API cost).<br />
+        • Automated categorization with <strong>Google Gemini 2.5 Flash</strong> and local rule engine fallback for high availability.<br />
         • Dynamic budgets, monthly AI analysis, and interactive demo mode without registration.
       </td>
       <td>
@@ -179,7 +179,7 @@ Software Development Technologist with **over 5 years of experience** designing 
         <code>🔒 Private Code</code>
       </td>
       <td>
-        Scalable multi-tenant e-commerce platform for stores and outlets at $0 infrastructure cost.<br />
+        High-performance, scalable multi-tenant e-commerce platform for retail stores and outlets.<br />
         • Multiple independent stores on a single codebase with isolated routes and custom domains.<br />
         • Reactive cart with Zustand, integrated WhatsApp checkout, and <strong>380+ automated tests</strong>.
       </td>
@@ -216,9 +216,9 @@ Software Development Technologist with **over 5 years of experience** designing 
 
 ### ⚡ What I'm Working On Right Now (_Now_)
 
-- 🛠️ **Building:** Multi-business inventory app, scheduling platform _Setty_, and new multi-site features for ConstructTrack.
-- 📚 **Deepening:** AI for product (material demand prediction), automated CI/CD pipelines with Docker, and Serverless with Cloud Functions.
-- 🎯 **Exploring:** Cloud architecture on AWS (EC2, S3, Lambda), Supabase Realtime at scale, and GraphQL.
+- 🛠️ **Building:** Bidirectional sync engine and offline resilience for ConstructTrack, upfront payments in _Setty_, and commercial analytics for _Outlet_.
+- 📚 **Deepening:** AI predictive models for job site demand, CI/CD pipelines with GitHub Actions and Docker, and serverless functions.
+- 🎯 **Exploring:** Local-First architectures with CRDTs, GraphQL for complex systems, and On-Device AI models on mobile devices.
 
 ---
 
